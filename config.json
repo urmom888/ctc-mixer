@@ -12,7 +12,7 @@
   },
   "deployBlock": 3403600,
   "merkleTreeHeight": 20,
-  "relayers": [{"url":"http://localhost:4000","name":"Local Docker","feePercent":0.5}],
+  "relayers": [{"url":"https://referable-deluge-wispy.ngrok-free.dev","name":"Relayer","feePercent":0.5}],
   "subgraphUrl": "",
   "explorerUrl": "https://creditcoin.blockscout.com"
 }
