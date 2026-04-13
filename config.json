@@ -1,0 +1,18 @@
+{
+  "chainId": 102030,
+  "chainName": "Creditcoin Mainnet",
+  "rpcUrls": ["https://mainnet3.creditcoin.network"],
+  "contracts": {
+    "0.1": "0x0e926108B301B608aa11f4559EA19Ff0d048E911",
+    "1":   "0xbfFc3B62e3502fF53eD30B8176AA092f91644dC9",
+    "10":  "0x14593A5e5dBE6111e6C6600fb1eb273087a08361",
+    "100":   "0x0C30f64dBFD23Fc4bbF8562A02653996254472c3",
+    "10000": "0x5cb7aa59Fe88a91B44f98F59B9A97d0e581054ad",
+    "50000": "0x66c2CC156c849536CB8fb96914dE50250f1C1AF2"
+  },
+  "deployBlock": 3403600,
+  "merkleTreeHeight": 20,
+  "relayers": [{"url":"http://localhost:4000","name":"Local Docker","feePercent":0.5}],
+  "subgraphUrl": "",
+  "explorerUrl": "https://creditcoin.blockscout.com"
+}
